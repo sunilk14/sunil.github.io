@@ -1,3 +1,13 @@
 theme: jekyll-theme-slate
 title: Sunil Kunduru's homepage
 description: Learning to set up the website. Please be patient.
+lsi: false
+safe: true
+source: ~/sunilk14.github.io
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
